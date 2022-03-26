@@ -71,4 +71,4 @@ w0'=w0-gw2
 
 ## Computation Graph
 
-![image-20220326144318653](https://gitee.com/tdye/typora-imgs/raw/master/imgs/image-20220326144318653.png)
+![image-20220326144318653](https://github.com/tdye24/Second-Order-Derivative-in-MAML/blob/master/computation%20graph.jpg)
